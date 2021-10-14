@@ -1,0 +1,9 @@
+[requires]
+benchmark/1.6.0
+fmt/8.0.1
+abseil/20210324.2
+
+[generators]
+cmake
+
+[options]
